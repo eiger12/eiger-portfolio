@@ -7,6 +7,7 @@ Hi! I'm **Eiger** and I'm learning cybersecurity and IT.
 - Pronouns: he/him
 - Interests: cybersecurity, programming, IT, Umamusume
 - Current goal: build a portfolio with small projects and learn GitHub
+- Mission: make the world safer by learning cybersecurity and building helpful tools
 
 ## What I'm Learning
 - Git and GitHub
@@ -18,7 +19,10 @@ Hi! I'm **Eiger** and I'm learning cybersecurity and IT.
 ### 1. Password Strength Checker
 A simple Python project that checks how strong a password is.
 
-### 2. Learning Notes
+### 2. Strong Password Generator
+A Python project that helps create secure passwords using cryptographic randomness.
+
+### 3. Learning Notes
 I will add notes and new projects here as I learn more.
 
 ## Contact
