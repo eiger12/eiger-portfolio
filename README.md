@@ -8,6 +8,13 @@ Hi! I'm **Eiger** and I'm learning cybersecurity and IT.
 - Interests: cybersecurity, programming, IT, Umamusume
 - Current goal: build a portfolio with small projects and learn GitHub
 - Mission: make the world safer by learning cybersecurity and building helpful tools
+- Story: I am a college IT student who wants to protect people with better software and smarter security.
+
+## What to Say About Me
+- I am Eiger, an IT student learning cybersecurity and Python.
+- I want to make the world safer by building tools and improving system security.
+- I love Umamusume, and I use that passion to keep learning technology.
+- I am sharing my progress on GitHub so people can see my projects and growth.
 
 ## What I'm Learning
 - Git and GitHub
