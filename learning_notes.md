@@ -18,6 +18,7 @@
 - Created `strong_password_generator.py`
 - Added `projects/cyber_security_tips.py`
 - Added `projects/url_security_checker.py`
+- Added `projects/ctf_toolkit.py`
 - Updated README and added `CONTRIBUTING.md`
 
 ## Next tasks
