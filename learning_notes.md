@@ -1,25 +1,27 @@
 # Learning Notes
 
 ## Goals
-- Keep building small cybersecurity projects
+- build small cybersecurity projects
 - learn Python and GitHub step by step
-- make my portfolio stronger every week
-- show that I want to make the world safer
+- make the portfolio more useful each week
+- help people stay safer online
 
 ## Ideas
 - password strength checker
 - strong password generator
-- simple log analyzer
-- basic network scanner
-- safer login suggestions
+- URL security checker
+- cybersecurity tips assistant
+- safer browsing helpers
 
 ## Progress
 - Created `password_strength_checker.py`
 - Created `strong_password_generator.py`
-- Updated README to explain my goals and mission
+- Added `projects/cyber_security_tips.py`
+- Added `projects/url_security_checker.py`
+- Updated README and added `CONTRIBUTING.md`
 
 ## Next tasks
-- add a third project
-- add comments and instructions to each script
-- push every new project to GitHub
-- share the repo link with friends and mentors
+- add one more project soon
+- write better instructions for each tool
+- push updates to GitHub regularly
+- share the repo with friends and in study groups
